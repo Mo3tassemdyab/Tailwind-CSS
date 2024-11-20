@@ -8,3 +8,4 @@ Tailwind CSS is a utility-first CSS framework for rapidly building modern websit
 ![tailwind](https://github.com/user-attachments/assets/fc7b6a3a-c008-4dbb-8162-17b2c4202cd1)
 
 2- Light Mode
+![tailwind2](https://github.com/user-attachments/assets/e12c0fb2-1522-484e-8ed7-768151516428)
